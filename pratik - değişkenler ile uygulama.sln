@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pratik - değişkenler ile uygulama", "pratik - değişkenler ile uygulama\pratik - değişkenler ile uygulama.csproj", "{ABDA74AE-D426-4999-83C2-F0EB7E3FDE2B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ıfelseconsole1", "ıfelseconsole1\ıfelseconsole1.csproj", "{55908CC6-6E8B-49F3-A2FD-41B05378880F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABDA74AE-D426-4999-83C2-F0EB7E3FDE2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABDA74AE-D426-4999-83C2-F0EB7E3FDE2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABDA74AE-D426-4999-83C2-F0EB7E3FDE2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABDA74AE-D426-4999-83C2-F0EB7E3FDE2B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55908CC6-6E8B-49F3-A2FD-41B05378880F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55908CC6-6E8B-49F3-A2FD-41B05378880F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55908CC6-6E8B-49F3-A2FD-41B05378880F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55908CC6-6E8B-49F3-A2FD-41B05378880F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
